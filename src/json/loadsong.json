@@ -1,0 +1,29 @@
+[
+    {
+      "type": "text",
+      "name": "Titolo",
+      "placeholder": "Inserisci il titolo della canzone"
+    },
+    {
+      "type": "date",
+      "name": "Data di pubblicazione",
+      "placeholder": "Inserisci la data di pubblicazione"
+    },
+    {
+      "type": "file",
+      "name": "Copertina brano",
+      "placeholder": "Inserisci la l'immagine di copertina"
+    },
+    {
+      "type": "textarea",
+      "name": "Generi musicali",
+      "placeholder": "Inserisci una descrizione sui generi musicali, citazioni e altri riferimenti al brano"
+    },
+    {
+      "type": "file",
+      "name": "File audio",
+      "accept":"audio/*",
+      "placeholder": "Inserisci una descrizione sui generi musicali, citazioni e altri riferimenti al brano"
+    }
+]
+  

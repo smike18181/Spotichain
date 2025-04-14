@@ -1,0 +1,33 @@
+[
+    {
+      "type": "text",
+      "name": "nome d'arte",
+      "placeholder": "Inserisci il tuo nome d'arte"
+    },
+    {
+      "type": "text",
+      "name": "nome",
+      "placeholder": "Inserisci il tuo nome di battesimo"
+    },
+    {
+      "type": "textarea",
+      "name": "link social",
+      "placeholder": "Inserisci i link social"
+    },
+    {
+      "type": "email",
+      "name": "email",
+      "placeholder": "Inserisci la tua email"
+    },
+    {
+      "type": "file",
+      "name": "Immagine del profilo",
+      "placeholder": "Inserisci la tua immagine del profilo"
+    },
+    {
+      "type": "textarea",
+      "name": "biografia",
+      "placeholder": "Inserisci la tua biografia"
+    }
+]
+  
